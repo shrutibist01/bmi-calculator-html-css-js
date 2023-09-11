@@ -5,8 +5,7 @@ The BMI (Body Mass Index) calculator provided above is a simple web-based tool d
 
 ## Features 
 
-1.BMI Categories and Interpretation: Display the BMI categories (e.g., underweight, normal weight, overweight, obese).
-
+1. BMI Categories and Interpretation: Display the BMI categories (e.g., underweight, normal weight, overweight, obese).
 2. Color-Coded Feedback: Use different colors to highlight the user's BMI category, making it easier for them to understand at a glance whether they are in a healthy range or not.
 
 ## Demo

@@ -11,4 +11,4 @@ The BMI (Body Mass Index) calculator provided above is a simple web-based tool d
 ## Demo
 
 You can try out the bmi calculator live by visiting the following link: 
-[BMI Calculator Demo](https://shrutibist01.github.io/bmi-calculator-html-css-js/bmi.js)
+[BMI Calculator Demo](https://shrutibist01.github.io/bmi-calculator-html-css-js/projects/bmi.html)
